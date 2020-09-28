@@ -2282,8 +2282,12 @@ take precedence the ones in this file. */
 
 		.image.left {
 			float: left;
-			margin: 0 1.5em 1em 0;
+			margin: 0 3 50 0;
 			top: 0.25em;
+			padding-left: 0;
+			padding-right: 40px;
+			padding-bottom: 40px;
+			bottom: 10;
 		}
 
 		.image.right {
