@@ -5,15 +5,15 @@
 
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
-/* #banner {
+#banner {
   background-image: url(../../images/pic01.jpg);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
   text-align: center;
   cursor: default;
-  padding: 10em 4em 9em 4em;
-} */
+  padding: 10em 4em 20em 4em;
+}
 
 
 
@@ -34,3 +34,12 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+
+/*Typefaces
+  /*Title: Rubik
+  /*Body Copy: Roboto
+/*Primary Colors:
+  /* dark blue: rgba(51,101,128,1)
+  /* light blue: rgba(167,198,218,1)
+  /* yellow: rgba(255,220,44,1)
