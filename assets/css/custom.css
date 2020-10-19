@@ -6,7 +6,7 @@
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
 #banner {
-  background-image: url(/Users/shelbyparker/Documents/GitHub/project-hope-foundation/images/adam-winger-7fF0iei80AQ-unsplash.jpg);
+  background-image: url(/Users/shelbyparker/Documents/GitHub/project-hope-foundation/images/headerfaded.jpg);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
