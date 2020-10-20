@@ -8,7 +8,7 @@ Just un comment the #banner rule below. */
 #banner {
   background-image: url(/Users/shelbyparker/Documents/GitHub/project-hope-foundation/images/headerfaded.jpg);
   background-size: cover;
-  /* color: rgba(255, 255, 255, 0.75); */
+  color: rgba(255, 255, 255, 0.75);
   text-shadow: 1px 1px 15px #333;
   text-align: center;
   cursor: default;
