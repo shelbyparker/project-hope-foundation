@@ -3382,8 +3382,8 @@ take precedence the ones in this file. */
 			#banner input[type="button"].alt,
 			#banner button.alt,
 			#banner .button.alt {
-				background-color: rgba(255,220,44,.5);
-				box-shadow: inset 0 0 0 2px rgba(255,220,44,.75);
+				background-color: rgba(255,220,44,.25);
+				box-shadow: inset 0 0 0 2px rgba(255,220,44,.5);
 				color: #fff !important;
 			}
 
@@ -3392,7 +3392,8 @@ take precedence the ones in this file. */
 				#banner input[type="button"].alt:hover,
 				#banner button.alt:hover,
 				#banner .button.alt:hover {
-					background-color: rgba(51,101,128,0.075);
+					/* background-color: rgba(51,101,128,0.075); */
+						background-color: rgba(255,220,44,.75);
 				}
 
 				#banner input[type="submit"].alt:active,
