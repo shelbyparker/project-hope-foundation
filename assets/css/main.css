@@ -1589,7 +1589,7 @@ take precedence the ones in this file. */
 	}
 
 	body, input, select, textarea {
-		font-family: "Lato", Arial, Helvetica, sans-serif;
+		font-family: "Roboto", sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
@@ -1613,6 +1613,8 @@ take precedence the ones in this file. */
 
 	a {
 		text-decoration: none;
+		font-family: "Rubik", sans-serif;
+		font-weight: 500;
 	}
 
 		a:hover {
@@ -1632,6 +1634,7 @@ take precedence the ones in this file. */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: "Rubik", sans-serif;
 		font-weight: 700;
 		line-height: 1.25;
 		margin: 0 0 1em 0;
